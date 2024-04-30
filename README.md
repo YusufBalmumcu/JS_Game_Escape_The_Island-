@@ -3,7 +3,7 @@
 Bu proje, JavaScript ve HTML kullanarak geliştirilmiş bir web oyununu içerir. Oyuncular, başladıkları adadan kaçmaya çalışmak için adanın bir ucundan diğer ucuna gider. Kurulumu kolaydır ve kontroller sadece hareket tuşları ve fare sol tıkıdır.
 
 
-* [Oyunun Linki](http://www.yusufbalmumcu.com/)
+* [Oyunun Linki](https://yusufbalmumcu.github.io/JS_Game_Escape_The_Island-/)
 * [Oynanış Videosu](https://youtu.be/y0aFH662tw8)
 
 
